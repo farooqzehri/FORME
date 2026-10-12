@@ -13,6 +13,7 @@ export type Product = {
   featured?: boolean;
   bestseller?: boolean;
 };
+// products
 
 export const products: Product[] = [
   {
