@@ -181,7 +181,7 @@ export const categories: { name: Category; image: string; note: string }[] = [
     note: "Comfort, considered",
   },
 ];
-
+// format price
 export function formatPrice(price: number) {
   return new Intl.NumberFormat("en-US", {
     style: "currency",
