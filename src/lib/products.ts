@@ -189,3 +189,4 @@ export function formatPrice(price: number) {
     maximumFractionDigits: 0,
   }).format(price);
 }
+// product page comleted
