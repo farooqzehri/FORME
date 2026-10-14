@@ -190,3 +190,4 @@ export function formatPrice(price: number) {
   }).format(price);
 }
 // product page comleted
+// new 
