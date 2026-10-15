@@ -173,7 +173,7 @@ export const categories: { name: Category; image: string; note: string }[] = [
     image:
       "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=1100&q=85",
     note: "For gathering well",
-  },
+  }, // table wear accomplished
   {
     name: "Textiles",
     image:
