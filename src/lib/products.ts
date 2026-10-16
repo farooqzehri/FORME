@@ -154,7 +154,7 @@ export const products: Product[] = [
     bestseller: true,
   },
 ];
-// categories categories
+// categories Commented
 export const categories: { name: Category; image: string; note: string }[] = [
   {
     name: "Living",
