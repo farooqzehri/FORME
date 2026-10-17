@@ -10,14 +10,7 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <Image
-          src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2200&q=90"
-          alt="Sunlit, thoughtfully styled contemporary living room"
-          fill
-          priority
-          sizes="100vw"
-          unoptimized
-        />
+       
         <div className="hero-overlay" />
         <div className="hero-content">
           <p className="hero-kicker">A quieter kind of everyday</p>
